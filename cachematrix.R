@@ -17,7 +17,6 @@ set <- function (y) {
               setsolve = setsolve,
               getsolve = getsolve)
         
-
 }
 
 
